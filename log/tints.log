@@ -1,0 +1,350 @@
+2024-08-15 15:28:38 INFO rust_pixel::game app/tints(rust_pixel) start...["app", "tints"]
+
+2024-08-15 15:28:38 INFO rust_pixel::game Init game...
+
+2024-08-15 15:28:38 INFO tinge::model rgb  :   0.000    1.000    0.000
+
+2024-08-15 15:28:38 INFO tinge::model lrgb :   0.000    1.000    0.000
+
+2024-08-15 15:28:38 INFO tinge::model cmyk :   1.000    0.000    1.000
+
+2024-08-15 15:28:38 INFO tinge::model hsl  : 120.000    1.000    0.500
+
+2024-08-15 15:28:38 INFO tinge::model hsv  : 120.000    1.000    1.000
+
+2024-08-15 15:28:38 INFO tinge::model hwb  : 120.000    0.000    0.000
+
+2024-08-15 15:28:38 INFO tinge::model lab  :  87.735  -86.181   83.186
+
+2024-08-15 15:28:38 INFO tinge::model lch  :  87.735  119.779  136.013
+
+2024-08-15 15:28:38 INFO tinge::model oklab:   0.866   -0.234    0.179
+
+2024-08-15 15:28:38 INFO tinge::model oklch:   0.866    0.295  142.511
+
+2024-08-15 15:28:38 INFO tinge::model cam16:  79.100   78.215  142.223
+
+2024-08-15 15:28:38 INFO tinge::model hct  : 142.140  108.406   87.735
+
+2024-08-15 15:28:38 INFO tinge::model xyz  :   0.358    0.715    0.119
+
+2024-08-15 15:28:38 INFO rust_pixel::render::panel panel init size...Rect { x: 0, y: 0, width: 82, height: 40 }
+
+2024-08-15 15:28:38 INFO rust_pixel::asset asset load:"/Users/xinzhou/Desktop/tinge/./assets/back.txt"
+
+2024-08-15 15:28:38 INFO rust_pixel::game Begin run...
+
+2024-08-15 15:28:38 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:30:03 INFO rust_pixel::game app/tints(rust_pixel) start...["app", "tints"]
+
+2024-08-15 15:30:03 INFO rust_pixel::game Init game...
+
+2024-08-15 15:30:03 INFO tinge::model rgb  :   0.000    1.000    0.000
+
+2024-08-15 15:30:03 INFO tinge::model lrgb :   0.000    1.000    0.000
+
+2024-08-15 15:30:03 INFO tinge::model cmyk :   1.000    0.000    1.000
+
+2024-08-15 15:30:03 INFO tinge::model hsl  : 120.000    1.000    0.500
+
+2024-08-15 15:30:03 INFO tinge::model hsv  : 120.000    1.000    1.000
+
+2024-08-15 15:30:03 INFO tinge::model hwb  : 120.000    0.000    0.000
+
+2024-08-15 15:30:03 INFO tinge::model lab  :  87.735  -86.181   83.186
+
+2024-08-15 15:30:03 INFO tinge::model lch  :  87.735  119.779  136.013
+
+2024-08-15 15:30:03 INFO tinge::model oklab:   0.866   -0.234    0.179
+
+2024-08-15 15:30:03 INFO tinge::model oklch:   0.866    0.295  142.511
+
+2024-08-15 15:30:03 INFO tinge::model cam16:  79.100   78.215  142.223
+
+2024-08-15 15:30:03 INFO tinge::model hct  : 142.140  108.406   87.735
+
+2024-08-15 15:30:03 INFO tinge::model xyz  :   0.358    0.715    0.119
+
+2024-08-15 15:30:03 INFO rust_pixel::render::panel panel init size...Rect { x: 0, y: 0, width: 82, height: 40 }
+
+2024-08-15 15:30:03 INFO rust_pixel::asset asset load:"/Users/xinzhou/Desktop/tinge/./assets/back.txt"
+
+2024-08-15 15:30:04 INFO rust_pixel::game Begin run...
+
+2024-08-15 15:30:04 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:48 INFO rust_pixel::game app/tints(rust_pixel) start...["app", "tints"]
+
+2024-08-15 15:31:48 INFO rust_pixel::game Init game...
+
+2024-08-15 15:31:48 INFO tinge::model rgb  :   0.000    1.000    0.000
+
+2024-08-15 15:31:48 INFO tinge::model lrgb :   0.000    1.000    0.000
+
+2024-08-15 15:31:48 INFO tinge::model cmyk :   1.000    0.000    1.000
+
+2024-08-15 15:31:48 INFO tinge::model hsl  : 120.000    1.000    0.500
+
+2024-08-15 15:31:48 INFO tinge::model hsv  : 120.000    1.000    1.000
+
+2024-08-15 15:31:48 INFO tinge::model hwb  : 120.000    0.000    0.000
+
+2024-08-15 15:31:48 INFO tinge::model lab  :  87.735  -86.181   83.186
+
+2024-08-15 15:31:48 INFO tinge::model lch  :  87.735  119.779  136.013
+
+2024-08-15 15:31:48 INFO tinge::model oklab:   0.866   -0.234    0.179
+
+2024-08-15 15:31:48 INFO tinge::model oklch:   0.866    0.295  142.511
+
+2024-08-15 15:31:48 INFO tinge::model cam16:  79.100   78.215  142.223
+
+2024-08-15 15:31:48 INFO tinge::model hct  : 142.140  108.406   87.735
+
+2024-08-15 15:31:48 INFO tinge::model xyz  :   0.358    0.715    0.119
+
+2024-08-15 15:31:48 INFO rust_pixel::render::panel panel init size...Rect { x: 0, y: 0, width: 82, height: 40 }
+
+2024-08-15 15:31:48 INFO rust_pixel::asset asset load:"/Users/xinzhou/Desktop/tinge/./assets/back.txt"
+
+2024-08-15 15:31:48 INFO rust_pixel::game Begin run...
+
+2024-08-15 15:31:48 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:52 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:52 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:52 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:53 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:53 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:53 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:53 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:53 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:53 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:53 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:54 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:54 INFO tinge::model r...0g...0b...0
+
+2024-08-15 15:31:54 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:54 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:54 INFO tinge::model r...0g...0b...0
+
+2024-08-15 15:31:54 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:55 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:55 INFO tinge::model r...0g...0b...0
+
+2024-08-15 15:31:55 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:55 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:55 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:56 INFO tinge::model do gradient..........
+
+2024-08-15 15:31:56 INFO tinge_lib color_stop.....ColorGradient { color_stops: [ColorStop { color: ColorPro { space_matrix: [Some(   1.000    0.000    0.000), Some(   1.000    0.000    0.000), Some(   0.000    1.000    1.000), Some(   0.000    1.000    0.500), Some(   0.000    1.000    1.000), Some(   0.000    0.000    0.000), Some(  53.241   80.094   67.207), Some(  53.241  104.556   40.000), Some(   0.628    0.225    0.126), Some(   0.628    0.258   29.227), Some(  46.030   81.258   27.393), Some(  27.410  113.361   53.241), Some(   0.412    0.213    0.019)] }, position: Fraction { f: 0.0 } }, ColorStop { color: ColorPro { space_matrix: [Some(   1.000    1.000    0.000), Some(   1.000    1.000    0.000), Some(   0.000    0.000    1.000), Some(  60.000    1.000    0.500), Some(  60.000    1.000    1.000), Some(  60.000    0.000    0.000), Some(  97.139  -21.551   94.485), Some(  97.139   96.912  102.849), Some(   0.968   -0.071    0.198), Some(   0.968    0.211  109.781), Some(  94.684   54.498  111.142), Some( 111.040   75.501   97.139), Some(   0.770    0.928    0.139)] }, position: Fraction { f: 0.3333333333333333 } }, ColorStop { color: ColorPro { space_matrix: [Some(   0.000    1.000    1.000), Some(   0.000    1.000    1.000), Some(   1.000    0.000    0.000), Some( 180.000    1.000    0.500), Some( 180.000    1.000    1.000), Some( 180.000    0.000    0.000), Some(  91.113  -48.085  -14.117), Some(  91.113   50.115  196.362), Some(   0.905   -0.149   -0.039), Some(   0.905    0.155  194.798), Some(  85.059   42.654  196.580), Some( 196.535   58.964   91.113), Some(   0.538    0.787    1.069)] }, position: Fraction { f: 0.6666666666666666 } }, ColorStop { color: ColorPro { space_matrix: [Some(   1.000    0.000    0.800), Some(   1.000    0.000    0.604), Some(   0.000    1.000    0.200), Some( -48.000    1.000    0.500), Some( -48.000    1.000    1.000), Some( -48.000    0.000    0.000), Some(  57.680   91.725  -36.297), Some(  57.680   98.645  338.411), Some(   0.675    0.276   -0.098), Some(   0.675    0.293  340.357), Some(  51.697   74.667  344.816), Some( 344.861  103.965   57.680), Some(   0.521    0.256    0.593)] }, position: Fraction { f: 1.0 } }] }
+
+2024-08-15 15:31:56 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:57 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:57 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:57 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:57 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:58 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:58 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:58 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:58 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:58 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:31:59 INFO tinge::model do gradient..........
+
+2024-08-15 15:31:59 INFO tinge_lib color_stop.....ColorGradient { color_stops: [ColorStop { color: ColorPro { space_matrix: [Some(   1.000    0.000    0.000), Some(   1.000    0.000    0.000), Some(   0.000    1.000    1.000), Some(   0.000    1.000    0.500), Some(   0.000    1.000    1.000), Some(   0.000    0.000    0.000), Some(  53.241   80.094   67.207), Some(  53.241  104.556   40.000), Some(   0.628    0.225    0.126), Some(   0.628    0.258   29.227), Some(  46.030   81.258   27.393), Some(  27.410  113.361   53.241), Some(   0.412    0.213    0.019)] }, position: Fraction { f: 0.0 } }, ColorStop { color: ColorPro { space_matrix: [Some(   1.000    1.000    0.000), Some(   1.000    1.000    0.000), Some(   0.000    0.000    1.000), Some(  60.000    1.000    0.500), Some(  60.000    1.000    1.000), Some(  60.000    0.000    0.000), Some(  97.139  -21.551   94.485), Some(  97.139   96.912  102.849), Some(   0.968   -0.071    0.198), Some(   0.968    0.211  109.781), Some(  94.684   54.498  111.142), Some( 111.040   75.501   97.139), Some(   0.770    0.928    0.139)] }, position: Fraction { f: 0.3333333333333333 } }, ColorStop { color: ColorPro { space_matrix: [Some(   0.000    1.000    1.000), Some(   0.000    1.000    1.000), Some(   1.000    0.000    0.000), Some( 180.000    1.000    0.500), Some( 180.000    1.000    1.000), Some( 180.000    0.000    0.000), Some(  91.113  -48.085  -14.117), Some(  91.113   50.115  196.362), Some(   0.905   -0.149   -0.039), Some(   0.905    0.155  194.798), Some(  85.059   42.654  196.580), Some( 196.535   58.964   91.113), Some(   0.538    0.787    1.069)] }, position: Fraction { f: 0.6666666666666666 } }, ColorStop { color: ColorPro { space_matrix: [Some(   1.000    0.000    0.800), Some(   1.000    0.000    0.604), Some(   0.000    1.000    0.200), Some( -48.000    1.000    0.500), Some( -48.000    1.000    1.000), Some( -48.000    0.000    0.000), Some(  57.680   91.725  -36.297), Some(  57.680   98.645  338.411), Some(   0.675    0.276   -0.098), Some(   0.675    0.293  340.357), Some(  51.697   74.667  344.816), Some( 344.861  103.965   57.680), Some(   0.521    0.256    0.593)] }, position: Fraction { f: 1.0 } }] }
+
+2024-08-15 15:31:59 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:32:00 INFO tinge::model do gradient..........
+
+2024-08-15 15:32:00 INFO tinge_lib color_stop.....ColorGradient { color_stops: [ColorStop { color: ColorPro { space_matrix: [Some(   1.000    0.000    0.000), Some(   1.000    0.000    0.000), Some(   0.000    1.000    1.000), Some(   0.000    1.000    0.500), Some(   0.000    1.000    1.000), Some(   0.000    0.000    0.000), Some(  53.241   80.094   67.207), Some(  53.241  104.556   40.000), Some(   0.628    0.225    0.126), Some(   0.628    0.258   29.227), Some(  46.030   81.258   27.393), Some(  27.410  113.361   53.241), Some(   0.412    0.213    0.019)] }, position: Fraction { f: 0.0 } }, ColorStop { color: ColorPro { space_matrix: [Some(   1.000    1.000    0.000), Some(   1.000    1.000    0.000), Some(   0.000    0.000    1.000), Some(  60.000    1.000    0.500), Some(  60.000    1.000    1.000), Some(  60.000    0.000    0.000), Some(  97.139  -21.551   94.485), Some(  97.139   96.912  102.849), Some(   0.968   -0.071    0.198), Some(   0.968    0.211  109.781), Some(  94.684   54.498  111.142), Some( 111.040   75.501   97.139), Some(   0.770    0.928    0.139)] }, position: Fraction { f: 0.25 } }, ColorStop { color: ColorPro { space_matrix: [Some(   0.000    1.000    1.000), Some(   0.000    1.000    1.000), Some(   1.000    0.000    0.000), Some( 180.000    1.000    0.500), Some( 180.000    1.000    1.000), Some( 180.000    0.000    0.000), Some(  91.113  -48.085  -14.117), Some(  91.113   50.115  196.362), Some(   0.905   -0.149   -0.039), Some(   0.905    0.155  194.798), Some(  85.059   42.654  196.580), Some( 196.535   58.964   91.113), Some(   0.538    0.787    1.069)] }, position: Fraction { f: 0.5 } }, ColorStop { color: ColorPro { space_matrix: [Some(   1.000    0.000    0.800), Some(   1.000    0.000    0.604), Some(   0.000    1.000    0.200), Some( -48.000    1.000    0.500), Some( -48.000    1.000    1.000), Some( -48.000    0.000    0.000), Some(  57.680   91.725  -36.297), Some(  57.680   98.645  338.411), Some(   0.675    0.276   -0.098), Some(   0.675    0.293  340.357), Some(  51.697   74.667  344.816), Some( 344.861  103.965   57.680), Some(   0.521    0.256    0.593)] }, position: Fraction { f: 0.75 } }, ColorStop { color: ColorPro { space_matrix: [Some(   1.000    1.000    1.000), Some(   1.000    1.000    1.000), Some(   0.000    0.000    0.000), Some(   0.000    0.000    1.000), Some(   0.000    0.000    1.000), Some(   0.000    1.000    0.000), Some( 100.000    0.002    0.014), Some( 100.000    0.014   80.034), Some(   1.000   -0.000   -0.000), Some(   1.000    0.000  263.283), Some( 100.000    2.225  209.258), Some( 209.243    2.855  100.000), Some(   0.950    1.000    1.089)] }, position: Fraction { f: 1.0 } }] }
+
+2024-08-15 15:32:02 INFO tinge::model do gradient..........
+
+2024-08-15 15:32:02 INFO tinge_lib color_stop.....ColorGradient { color_stops: [ColorStop { color: ColorPro { space_matrix: [Some(   1.000    0.000    0.000), Some(   1.000    0.000    0.000), Some(   0.000    1.000    1.000), Some(   0.000    1.000    0.500), Some(   0.000    1.000    1.000), Some(   0.000    0.000    0.000), Some(  53.241   80.094   67.207), Some(  53.241  104.556   40.000), Some(   0.628    0.225    0.126), Some(   0.628    0.258   29.227), Some(  46.030   81.258   27.393), Some(  27.410  113.361   53.241), Some(   0.412    0.213    0.019)] }, position: Fraction { f: 0.0 } }, ColorStop { color: ColorPro { space_matrix: [Some(   1.000    1.000    0.000), Some(   1.000    1.000    0.000), Some(   0.000    0.000    1.000), Some(  60.000    1.000    0.500), Some(  60.000    1.000    1.000), Some(  60.000    0.000    0.000), Some(  97.139  -21.551   94.485), Some(  97.139   96.912  102.849), Some(   0.968   -0.071    0.198), Some(   0.968    0.211  109.781), Some(  94.684   54.498  111.142), Some( 111.040   75.501   97.139), Some(   0.770    0.928    0.139)] }, position: Fraction { f: 0.25 } }, ColorStop { color: ColorPro { space_matrix: [Some(   0.000    1.000    1.000), Some(   0.000    1.000    1.000), Some(   1.000    0.000    0.000), Some( 180.000    1.000    0.500), Some( 180.000    1.000    1.000), Some( 180.000    0.000    0.000), Some(  91.113  -48.085  -14.117), Some(  91.113   50.115  196.362), Some(   0.905   -0.149   -0.039), Some(   0.905    0.155  194.798), Some(  85.059   42.654  196.580), Some( 196.535   58.964   91.113), Some(   0.538    0.787    1.069)] }, position: Fraction { f: 0.5 } }, ColorStop { color: ColorPro { space_matrix: [Some(   1.000    0.000    0.800), Some(   1.000    0.000    0.604), Some(   0.000    1.000    0.200), Some( -48.000    1.000    0.500), Some( -48.000    1.000    1.000), Some( -48.000    0.000    0.000), Some(  57.680   91.725  -36.297), Some(  57.680   98.645  338.411), Some(   0.675    0.276   -0.098), Some(   0.675    0.293  340.357), Some(  51.697   74.667  344.816), Some( 344.861  103.965   57.680), Some(   0.521    0.256    0.593)] }, position: Fraction { f: 0.75 } }, ColorStop { color: ColorPro { space_matrix: [Some(   1.000    1.000    1.000), Some(   1.000    1.000    1.000), Some(   0.000    0.000    0.000), Some(   0.000    0.000    1.000), Some(   0.000    0.000    1.000), Some(   0.000    1.000    0.000), Some( 100.000    0.002    0.014), Some( 100.000    0.014   80.034), Some(   1.000   -0.000   -0.000), Some(   1.000    0.000  263.283), Some( 100.000    2.225  209.258), Some( 209.243    2.855  100.000), Some(   0.950    1.000    1.089)] }, position: Fraction { f: 1.0 } }] }
+
+2024-08-15 15:32:02 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:32:03 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:34:16 INFO rust_pixel::game app/tints(rust_pixel) start...["app", "tints"]
+
+2024-08-15 15:34:16 INFO rust_pixel::game Init game...
+
+2024-08-15 15:34:16 INFO tinge::model rgb  :   0.000    1.000    0.000
+
+2024-08-15 15:34:16 INFO tinge::model lrgb :   0.000    1.000    0.000
+
+2024-08-15 15:34:16 INFO tinge::model cmyk :   1.000    0.000    1.000
+
+2024-08-15 15:34:16 INFO tinge::model hsl  : 120.000    1.000    0.500
+
+2024-08-15 15:34:16 INFO tinge::model hsv  : 120.000    1.000    1.000
+
+2024-08-15 15:34:16 INFO tinge::model hwb  : 120.000    0.000    0.000
+
+2024-08-15 15:34:16 INFO tinge::model lab  :  87.735  -86.181   83.186
+
+2024-08-15 15:34:16 INFO tinge::model lch  :  87.735  119.779  136.013
+
+2024-08-15 15:34:16 INFO tinge::model oklab:   0.866   -0.234    0.179
+
+2024-08-15 15:34:16 INFO tinge::model oklch:   0.866    0.295  142.511
+
+2024-08-15 15:34:16 INFO tinge::model cam16:  79.100   78.215  142.223
+
+2024-08-15 15:34:16 INFO tinge::model hct  : 142.140  108.406   87.735
+
+2024-08-15 15:34:16 INFO tinge::model xyz  :   0.358    0.715    0.119
+
+2024-08-15 15:34:17 INFO rust_pixel::render::panel panel init size...Rect { x: 0, y: 0, width: 82, height: 40 }
+
+2024-08-15 15:34:17 INFO rust_pixel::asset asset load:"/Users/xinzhou/Desktop/tinge/./assets/back.txt"
+
+2024-08-15 15:34:17 INFO rust_pixel::game Begin run...
+
+2024-08-15 15:34:17 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:37:02 INFO rust_pixel::game app/tints(rust_pixel) start...["app", "tints"]
+
+2024-08-15 15:37:02 INFO rust_pixel::game Init game...
+
+2024-08-15 15:37:02 INFO tinge::model rgb  :   0.000    1.000    0.000
+
+2024-08-15 15:37:02 INFO tinge::model lrgb :   0.000    1.000    0.000
+
+2024-08-15 15:37:02 INFO tinge::model cmyk :   1.000    0.000    1.000
+
+2024-08-15 15:37:02 INFO tinge::model hsl  : 120.000    1.000    0.500
+
+2024-08-15 15:37:02 INFO tinge::model hsv  : 120.000    1.000    1.000
+
+2024-08-15 15:37:02 INFO tinge::model hwb  : 120.000    0.000    0.000
+
+2024-08-15 15:37:02 INFO tinge::model lab  :  87.735  -86.181   83.186
+
+2024-08-15 15:37:02 INFO tinge::model lch  :  87.735  119.779  136.013
+
+2024-08-15 15:37:02 INFO tinge::model oklab:   0.866   -0.234    0.179
+
+2024-08-15 15:37:02 INFO tinge::model oklch:   0.866    0.295  142.511
+
+2024-08-15 15:37:02 INFO tinge::model cam16:  79.100   78.215  142.223
+
+2024-08-15 15:37:02 INFO tinge::model hct  : 142.140  108.406   87.735
+
+2024-08-15 15:37:02 INFO tinge::model xyz  :   0.358    0.715    0.119
+
+2024-08-15 15:37:02 INFO rust_pixel::render::panel panel init size...Rect { x: 0, y: 0, width: 82, height: 40 }
+
+2024-08-15 15:37:02 INFO rust_pixel::asset asset load:"/Users/xinzhou/Desktop/tinge/./assets/back.txt"
+
+2024-08-15 15:37:02 INFO rust_pixel::game Begin run...
+
+2024-08-15 15:37:02 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:37:45 INFO rust_pixel::game app/tints(rust_pixel) start...["app", "tints"]
+
+2024-08-15 15:37:45 INFO rust_pixel::game Init game...
+
+2024-08-15 15:37:45 INFO tinge::model rgb  :   0.000    1.000    0.000
+
+2024-08-15 15:37:45 INFO tinge::model lrgb :   0.000    1.000    0.000
+
+2024-08-15 15:37:45 INFO tinge::model cmyk :   1.000    0.000    1.000
+
+2024-08-15 15:37:45 INFO tinge::model hsl  : 120.000    1.000    0.500
+
+2024-08-15 15:37:45 INFO tinge::model hsv  : 120.000    1.000    1.000
+
+2024-08-15 15:37:45 INFO tinge::model hwb  : 120.000    0.000    0.000
+
+2024-08-15 15:37:45 INFO tinge::model lab  :  87.735  -86.181   83.186
+
+2024-08-15 15:37:45 INFO tinge::model lch  :  87.735  119.779  136.013
+
+2024-08-15 15:37:45 INFO tinge::model oklab:   0.866   -0.234    0.179
+
+2024-08-15 15:37:45 INFO tinge::model oklch:   0.866    0.295  142.511
+
+2024-08-15 15:37:45 INFO tinge::model cam16:  79.100   78.215  142.223
+
+2024-08-15 15:37:45 INFO tinge::model hct  : 142.140  108.406   87.735
+
+2024-08-15 15:37:45 INFO tinge::model xyz  :   0.358    0.715    0.119
+
+2024-08-15 15:37:45 INFO rust_pixel::render::panel panel init size...Rect { x: 0, y: 0, width: 82, height: 40 }
+
+2024-08-15 15:37:45 INFO rust_pixel::asset asset load:"/Users/xinzhou/Desktop/tinge/./assets/back.txt"
+
+2024-08-15 15:37:45 INFO rust_pixel::game Begin run...
+
+2024-08-15 15:37:45 INFO tinge::render draw_panel_clear....
+
+2024-08-15 15:43:36 INFO rust_pixel::game app/tints(rust_pixel) start...["app", "tints"]
+
+2024-08-15 15:43:36 INFO rust_pixel::game Init game...
+
+2024-08-15 15:43:36 INFO tinge::model rgb  :   0.000    1.000    0.000
+
+2024-08-15 15:43:36 INFO tinge::model lrgb :   0.000    1.000    0.000
+
+2024-08-15 15:43:36 INFO tinge::model cmyk :   1.000    0.000    1.000
+
+2024-08-15 15:43:36 INFO tinge::model hsl  : 120.000    1.000    0.500
+
+2024-08-15 15:43:36 INFO tinge::model hsv  : 120.000    1.000    1.000
+
+2024-08-15 15:43:36 INFO tinge::model hwb  : 120.000    0.000    0.000
+
+2024-08-15 15:43:36 INFO tinge::model lab  :  87.735  -86.181   83.186
+
+2024-08-15 15:43:36 INFO tinge::model lch  :  87.735  119.779  136.013
+
+2024-08-15 15:43:36 INFO tinge::model oklab:   0.866   -0.234    0.179
+
+2024-08-15 15:43:36 INFO tinge::model oklch:   0.866    0.295  142.511
+
+2024-08-15 15:43:36 INFO tinge::model cam16:  79.100   78.215  142.223
+
+2024-08-15 15:43:36 INFO tinge::model hct  : 142.140  108.406   87.735
+
+2024-08-15 15:43:36 INFO tinge::model xyz  :   0.358    0.715    0.119
+
+2024-08-15 15:43:36 INFO rust_pixel::render::panel panel init size...Rect { x: 0, y: 0, width: 82, height: 40 }
+
+2024-08-15 15:43:36 INFO rust_pixel::asset asset load:"/Users/xinzhou/Desktop/tinge/./assets/back.txt"
+
+2024-08-15 15:43:36 INFO rust_pixel::game Begin run...
+
+2024-08-15 15:43:36 INFO tinge::render draw_panel_clear....
+

@@ -1,0 +1,12 @@
+2024-08-15 15:11:35 INFO rust_pixel::game app/tinge(rust_pixel) start...["app", "tinge"]
+
+2024-08-15 15:11:35 INFO rust_pixel::game Init game...
+
+2024-08-15 15:11:35 INFO rust_pixel::render::panel panel init size...Rect { x: 0, y: 0, width: 82, height: 40 }
+
+2024-08-15 15:11:35 INFO rust_pixel::asset asset load:"/Users/xinzhou/Desktop/tinge/./assets/back.txt"
+
+2024-08-15 15:11:35 INFO rust_pixel::game Begin run...
+
+2024-08-15 15:11:35 INFO rust_pixel::asset asset load:"/Users/xinzhou/Desktop/tinge/./assets/poker/6.txt"
+
