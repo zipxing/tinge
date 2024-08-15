@@ -19,7 +19,7 @@ pub struct TingeGame {
 pub fn init_game() -> TingeGame {
     let m = TingeModel::new();
     let r = TingeRender::new();
-    let mut g = Game::new_with_project_path(m, r, "app/tints", Some("."));
+    let mut g = Game::new_with_project_path(m, r, "app/tinge", Some("."));
     g.init();
     TingeGame { g }
 }
