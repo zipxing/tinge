@@ -64,7 +64,6 @@ pub enum MouseArea {
 
 pub struct TingeModel {
     pub data: TingeData,
-    pub card: u8,
     pub main_color: ColorPro,
     pub main_color_similar: (usize, usize, usize),
     pub named_colors: Vec<(&'static str, ColorPro)>,
@@ -84,7 +83,6 @@ impl TingeModel {
 
         Self {
             data: TingeData::new(),
-            card: 0,
             main_color: COLORS_WITH_NAME[0].1,
             main_color_similar: (0, 0, 0),
             named_colors: ncolors,
@@ -419,9 +417,6 @@ impl TingeModel {
 
 impl Model for TingeModel {
     fn init(&mut self, context: &mut Context) {
-        self.data.shuffle();
-        self.card = self.data.next();
-
         context.state = TingeState::NameA as u8;
 
         let ctest = ColorPro::from_space_f64(SRGBA, 0.0, 1.0, 0.0, 1.0);
